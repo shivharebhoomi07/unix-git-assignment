@@ -1,1 +1,2 @@
 This line is written from conflict-branch-1.
+This line is written from conflict-branch-2.
